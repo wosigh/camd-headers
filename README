@@ -1,0 +1,30 @@
+From: Opensourcequestions <Opensourcequestions@palm.com>
+Date: 2009/10/2
+Subject: RE: Libgstcamsrc
+
+Thanks for your patience. We discussed it with Engineering and as a
+result we are sending you additional header files needed to complete a
+successful compile for libgstcamsrc. Thank you for bringing this to
+our attention.
+
+The attached files are:
+* camd_msg.h
+* profile.h
+* simple_ipc.h
+* PalmOmxjpegEncExif.h
+
+We hope this resolves the issue.
+All the best.
+Open Source Team
+
+From: Opensourcequestions <Opensourcequestions@palm.com>
+Date: 2009/10/3
+Subject: RE: Libgstcamsrc
+
+The files are provided under the GNU LGPL v2.1 License.
+(http://www.gnu.org/licenses/lgpl-2.1.txt)
+
+Thank you for your interest in webOS and the Palm Pre.
+Open Source Team
+
+    
